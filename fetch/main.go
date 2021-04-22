@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	impl.OpenPacket("any", "9999", 60)
+	impl.OpenPacket("any", "80", 600)
 }
